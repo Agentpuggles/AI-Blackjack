@@ -1,0 +1,14 @@
+/home/flynn/Documents/Blackjack/bin/Debug/net10.0/Blackjack
+/home/flynn/Documents/Blackjack/bin/Debug/net10.0/Blackjack.deps.json
+/home/flynn/Documents/Blackjack/bin/Debug/net10.0/Blackjack.runtimeconfig.json
+/home/flynn/Documents/Blackjack/bin/Debug/net10.0/Blackjack.dll
+/home/flynn/Documents/Blackjack/bin/Debug/net10.0/Blackjack.pdb
+/home/flynn/Documents/Blackjack/obj/Debug/net10.0/Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+/home/flynn/Documents/Blackjack/obj/Debug/net10.0/Blackjack.AssemblyInfoInputs.cache
+/home/flynn/Documents/Blackjack/obj/Debug/net10.0/Blackjack.AssemblyInfo.cs
+/home/flynn/Documents/Blackjack/obj/Debug/net10.0/Blackjack.csproj.CoreCompileInputs.cache
+/home/flynn/Documents/Blackjack/obj/Debug/net10.0/Blackjack.dll
+/home/flynn/Documents/Blackjack/obj/Debug/net10.0/refint/Blackjack.dll
+/home/flynn/Documents/Blackjack/obj/Debug/net10.0/Blackjack.pdb
+/home/flynn/Documents/Blackjack/obj/Debug/net10.0/Blackjack.genruntimeconfig.cache
+/home/flynn/Documents/Blackjack/obj/Debug/net10.0/ref/Blackjack.dll
